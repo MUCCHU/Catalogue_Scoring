@@ -1,0 +1,6 @@
+[submodule "interface"]
+	path = interface
+	url = https://github.com/ONDC-Hackathon/interface
+[submodule "server"]
+	path = server
+	url = https://github.com/ONDC-Hackathon/server
